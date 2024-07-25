@@ -8,6 +8,9 @@
     --background-color: #FFFFFF;
     --accent-color: #000000;
     
+    --header-font-weight: 700;
+    --main-font-weight: 400;
+    
     --heart-color: #FF0000;
     --countor-heart-color: #000000;
 
@@ -21,11 +24,13 @@
       ),
       repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
       linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
+
 }
 
 :root.theme-dark {
     --background-color: #000000;
     --accent-color: #00CC14;
+    
     --header-font-weight: 785;
     --main-font-weight: 465;
 

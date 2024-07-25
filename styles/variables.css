@@ -26,10 +26,7 @@
 
     /* кнопка лайк и сохранить */
 
-    --backdrop-color: rgb(0 0 0 / 0.3);
+    --backdrop-color: rgb(0 0 0 / 0.75);
     --modal-icon: #FFFFFF;
     --button-text-color: #FFFFFF;
-    
-
-
 }
